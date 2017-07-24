@@ -1,0 +1,32 @@
+
+  h2 {
+    color: black;
+    background-color: rgba(255, 204, 204, 0.2);
+    padding: 10px;
+  }
+  .btc {
+    background-color: rgba(255, 204, 102, 0.2);
+    width: 300px;
+    padding: 10px;
+}
+  .eth {
+    background-color: rgba(153, 204, 255, 0.2);
+    width: 300px;
+    padding: 10px
+}
+  .xrp {
+    background-color: rgba(0, 204, 153, 0.2);
+    width: 300px;
+    padding: 10px
+}
+.etc {
+    background-color: rgba(255, 204, 204, 0.2);
+    width: 300px;
+    padding: 10px
+}
+.ltc {
+    background-color: rgb(240, 240, 245);
+    width: 300px;
+    padding: 10px
+}
+ 
